@@ -1,7 +1,7 @@
 #pragma once
 
 #include <vector>
-#include "libs/glm/glm.hpp"
+#include "../libs/glm/glm.hpp"
 
 struct Mesh
 {

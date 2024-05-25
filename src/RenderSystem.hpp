@@ -1,7 +1,7 @@
 #pragma once
 
 #include <SFML/Graphics.hpp>
-#include "libs/glm/glm.hpp"
+#include "../libs/glm/glm.hpp"
 #include "camera.h"
 #include <string>
 #include <vector>

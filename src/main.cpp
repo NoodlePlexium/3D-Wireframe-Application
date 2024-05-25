@@ -6,7 +6,7 @@
 #include "mesh.hpp"
 #include "loader.hpp"
 #include "RenderSystem.hpp"
-#include "libs/glm/glm.hpp"
+#include "../libs/glm/glm.hpp"
 
 struct GLOBAL
 {
